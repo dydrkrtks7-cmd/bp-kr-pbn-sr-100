@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://balsan-info-note.best-samseong-hotplace.xyz/sitemap.xml
+Sitemap: https://balsan-info-note.best-samseong-hotplace.xyz/sitemap-pages.xml
